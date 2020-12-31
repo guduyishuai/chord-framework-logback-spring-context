@@ -24,5 +24,5 @@
 ```
 
 # 使用
-在logback的配置文件中使用SpringProfile标签
+在logback的配置文件中使用SpringProfile标签   
 需要注意的是，确保logback的配置文件名为logback-spring.xml
